@@ -13,3 +13,5 @@
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
+# Dibawah ini scripnya : <h2>
+![alt text](images/latihan1coding.png)
