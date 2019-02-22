@@ -13,20 +13,20 @@
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
-# Dibawah ini **Script** latihan1.py <h4>
+# Dibawah ini `*Script*` latihan1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan1coding.png)
 
-# Dibawah ini hasil *Runtime** latihan1.py <h4>
+# Dibawah ini hasil `*Runtime*` latihan1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan1program.png)
 
 
 # Latihan2 : latihan2.py <h4>
 Program Untuk Menampilkan Bilangan `TERBESAR` dari `N` Buah Data Yang Diinputkan, Dan Berhenti Ketika Memasukkan Angka `0`
 
-# Dibawah ini **Script** latihan2.py <h4>
+# Dibawah ini `*Script*` latihan2.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan2coding.png)
 
-# Dibawah ini hasil **Runtime** latihan2.py <h4>
+# Dibawah ini hasil `*Runtime*` latihan2.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan2program.png)
 
 # Pemograman 1: <h4>
@@ -52,9 +52,9 @@ ALGORITMA Menghitung Keuntungan selama 8 bulan berjalanya usaha
 15. Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan ke 8, hasilnya adalah total keuntungan yang didapat
 16. Selesai
 
-# Dibawah ini **Script** program1.py <h4>
+# Dibawah ini `*Script*` program1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/program1coding.png)
 
-# Dibawah ini hasil **Runtime** program1.py <h4>
+# Dibawah ini hasil `*Runtime*` program1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/program1program.png)
 
