@@ -14,4 +14,4 @@
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
 # Dibawah ini scripnya :
-![alt text](images/latihan1coding.png)
+![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan1coding.png)
