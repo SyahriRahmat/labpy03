@@ -1,35 +1,35 @@
 # TUGAS PRAKTIKUM 3 <H1>
 
-# Disini saya akan menampilkan 3 pemrograman: <h3>
+# Disini saya akan menampilkan 3 pemrograman: <h4>
 
 * Latihan 1     : Latihan1.py
 * Latihan 2     : Latihan2.py
 * Pemrograman 1 : Pemrograman1.py
  
-# Latihan1: Latihan1.py <h3>
+# Latihan1: Latihan1.py <h4>
 
 1. Tampilkan n bilangan acak yang lebih kecil dari 0.5
 2. Nilai n diisi pada saat runtime
 3. Anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
 4. Gunakan fungsi random() yang dapat diimport terlebih dahulu
 
-# Dibawah ini scripnya : <h3>
+# Dibawah ini **Script** latihan1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan1coding.png)
 
-# Dibawah ini hasil [runtime] latihan1.py <h3>
+# Dibawah ini hasil *Runtime** latihan1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan1program.png)
 
 
-# Latihan2 : latihan2.py <h3>
+# Latihan2 : latihan2.py <h4>
 Program Untuk Menampilkan Bilangan `TERBESAR` dari `N` Buah Data Yang Diinputkan, Dan Berhenti Ketika Memasukkan Angka `0`
 
-# Dibawah ini scriptnya : <h3>
+# Dibawah ini **Script** latihan2.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan2coding.png)
 
-# Dibawah ini hasil [runtime] latihan2.py <h3>
+# Dibawah ini hasil **Runtime** latihan2.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/latihan2program.png)
 
-# Pemograman 1:
+# Pemograman 1: <h4>
 * Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum medapatkan laba. Pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan kelima, pendapatan meningkat 5%, selanjutnya pada bulan kedelapan mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 
 ALGORITMANYA :
@@ -52,9 +52,9 @@ ALGORITMA Menghitung Keuntungan selama 8 bulan berjalanya usaha
 15. Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan ke 8, hasilnya adalah total keuntungan yang didapat
 16. Selesai
 
-# Dibawah ini scriptnya : <h3>
+# Dibawah ini **Script** program1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/program1coding.png)
 
-# Dibawah ini hasil runtime : program1.py : <h3>
+# Dibawah ini hasil **Runtime** program1.py <h4>
 ![screenshoot](https://github.com/SyahriRahmat/labpy03/blob/master/program1program.png)
 
