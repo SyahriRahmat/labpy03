@@ -36,7 +36,7 @@ Program Untuk Menampilkan Bilangan `TERBESAR` dari `N` Buah Data Yang Diinputkan
 ALGORITMA Menghitung Keuntungan selama 8 bulan berjalanya usaha
 
 1. Mulai
-2. Mencetak "== PROGRAM MENGHITUNG LABA PERUSAHAAN == "
+2. Mencetak "== PROGRAM HITUNG LABA PERUSAHAAN == "
 3. Membuat Note
 4. Mencetak Bulan pertama dan kedua = 0%
 5. Mencetak Bulan ke 3 = 1%
